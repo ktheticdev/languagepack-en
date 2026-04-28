@@ -1,4 +1,4 @@
-﻿- id: 39
+- id: 39
   en: Agrabah! We made it!
 - id: 40
   en: >-
@@ -1192,9 +1192,9 @@
 - id: 4099
   en: '...VERY soon!'
 - id: 4100
-  en: '{:icon button-cross}Next'
+  en: '{:icon button-circle}Next'
 - id: 4101
-  en: '{:icon button-cross}End'
+  en: '{:icon button-circle}End'
 - id: 7943
   en: >-
     Jafar might be planning on

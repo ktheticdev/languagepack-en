@@ -1,4 +1,4 @@
-﻿- id: 6219
+- id: 6219
   en: Treasure List
 - id: 6220
   en: Material/G
@@ -319,7 +319,7 @@
   en: >-
     Place Deco-Gummies that fire when
 
-    {:icon button-cross} is pressed.
+    {:icon button-circle} is pressed.
 - id: 6391
   en: >-
     Place Deco-Gummies that slash nearby
@@ -339,7 +339,7 @@
   en: >-
     Place Deco-Gummies that lock-on and
 
-    fire when {:icon button-cross} is held down.
+    fire when {:icon button-circle} is held down.
 - id: 6395
   en: Allocate Ability Units.
 - id: 6396
@@ -932,9 +932,9 @@
 - id: 15679
   en: '{:width 90}{:color #8080F080}{:icon button-select}{:reset}{:width 90}: Close'
 - id: 15680
-  en: '{:icon button-cross}: Open Topic'
+  en: '{:icon button-circle}: Open Topic'
 - id: 15681
-  en: '{:icon button-circle}: Back'
+  en: '{:icon button-cross}: Back'
 - id: 15683
   en: 'Material Gummies {:color #8080F080}▸{:reset}'
 - id: 15684
@@ -1119,7 +1119,7 @@
 
     {:color #8080F080}R3 button{:reset}: Original camera position
 
-    {:icon button-circle}: Return from viewer mode
+    {:icon button-cross}: Return from viewer mode
 
 
     {:color #00F0F080}- OPTIONS button during edits{:reset}
@@ -1147,14 +1147,14 @@
     Here´s how to navigate this guide:
 
 
-    {:icon button-cross}: Open the selected topic
+    {:icon button-circle}: Open the selected topic
 
-    {:icon button-circle}: Go back to the previous branch
+    {:icon button-cross}: Go back to the previous branch
 
     {:color #8080F080}{:icon button-select}{:reset}: Close the Gummi Guide
 
 
-    Press {:icon button-cross} to keep reading!
+    Press {:icon button-circle} to keep reading!
 - id: 16640
   en: >-
     View {:color #8080F080}special items and functions{:reset} of
@@ -1273,7 +1273,7 @@
 
     {:color #8080F080}Up/Down buttons{:reset}: Move cursor
 
-    {:icon button-cross}, {:icon button-triangle}: Place/Remove
+    {:icon button-circle}, {:icon button-triangle}: Place/Remove
 
 
     {:color #00F0F080}- Assigning Abilities{:reset}
@@ -1296,7 +1296,7 @@
 
     {:color #8080F080}Left/Right buttons{:reset}: Change Setting{:reset}
 
-    {:icon button-circle}: Confirm Selection and return
+    {:icon button-cross}: Confirm Selection and return
 
 
     {:color #00F0F080}- Let´s try!{:reset}
@@ -1344,9 +1344,9 @@
 
     {:color #00F0F080}- Learning to use these Gummies{:reset}
 
-    {:color #8080F080}Projectile Gummies{:reset} - Press {:icon button-cross} to shoot
+    {:color #8080F080}Projectile Gummies{:reset} - Press {:icon button-circle} to shoot
       at the enemy.
-    {:color #8080F080}Lock-on Gummies{:reset} - Keep {:icon button-cross} pressed to
+    {:color #8080F080}Lock-on Gummies{:reset} - Keep {:icon button-circle} pressed to
       lock-on and fire your weapons at the
       enemy.
     {:color #8080F080}Slash Gummies{:reset} - Press {:icon button-triangle} to attack
@@ -1374,7 +1374,7 @@
 
     The Gummi Ship can execute a {:color #F0F00080}rolling
 
-    maneuver{:reset} with {:icon button-circle}. With this, you can
+    maneuver{:reset} with {:icon button-cross}. With this, you can
 
     move quickly to avoid various enemy
 
@@ -1470,16 +1470,16 @@
 
     {:color #8080F080}Left stick{:reset}: Rotate selected Gummi
 
-    {:icon button-cross}: Select Gummi to copy
+    {:icon button-circle}: Select Gummi to copy
 
-    {:icon button-cross} twice: Copy  {:icon button-circle}: Back
+    {:icon button-circle} twice: Copy  {:icon button-cross}: Back
 
 
     {:color #00F0F080}- Let´s copy!{:reset}
 
     Move the cursor to the shape you wish to
 
-    copy and press {:icon button-cross}. Then move the cursor
+    copy and press {:icon button-circle}. Then move the cursor
 
     to where you would like to place it. Use
 
@@ -1487,7 +1487,7 @@
 
     Gummi. Confirm the direction it´s facing,
 
-    and press {:icon button-cross} again to copy.
+    and press {:icon button-circle} again to copy.
 - id: 16656
   en: >-
     First, select the Gummi you wish to
@@ -1495,7 +1495,7 @@
     place.
 
 
-    {:icon button-cross}: Confirm  {:icon button-circle}: Back
+    {:icon button-circle}: Confirm  {:icon button-cross}: Back
 
 
     {:color #00F0F080}- Look from different angles!{:reset}
@@ -1552,7 +1552,7 @@
 
     {:color #8080F080}Right stick{:reset}: Rotate camera
 
-    {:icon button-cross}: Confirm  {:icon button-circle}: Back
+    {:icon button-circle}: Confirm  {:icon button-cross}: Back
 
     {:icon button-r1}: Undo  {:icon button-r2}: Redo
 
@@ -1561,7 +1561,7 @@
 
     Put the cursor on the Gummi to reshape
 
-    and press {:icon button-cross} to reshape. It is also
+    and press {:icon button-circle} to reshape. It is also
 
     possible to {:color #F0F00080}reshape a selected area{:reset}.
 
@@ -1582,7 +1582,7 @@
 
     {:icon button-square}/{:color #8080F080}down button:{:reset} Open color sample{:reset}
 
-    {:icon button-cross}: Confirm  {:icon button-circle}: Back
+    {:icon button-circle}: Confirm  {:icon button-cross}: Back
 
     {:icon button-triangle} at color sample: Change color
 
@@ -1597,7 +1597,7 @@
 
     color you would like to use from the color
 
-    sample and press {:icon button-cross} to set it in the
+    sample and press {:icon button-circle} to set it in the
 
     color palette.
 - id: 16955
@@ -1815,11 +1815,11 @@
   en: Gummi Guide
 - id: 18533
   en: >-
-    {:icon button-cross}: Confirm  {:icon button-square}: Remove
+    {:icon button-circle}: Confirm  {:icon button-square}: Remove
 
     {:color #8080F080}Left stick{:reset}: Rotate Gummi  
 
-    {:color #8080F080}Right stick{:reset}: Camera   {:icon button-circle}: Back
+    {:color #8080F080}Right stick{:reset}: Camera   {:icon button-cross}: Back
 - id: 18534
   en: 2. Placement
 - id: 18535
@@ -1839,7 +1839,7 @@
 
     {:color #8080F080}Left stick{:reset}: Rotate Gummi block
 
-    {:icon button-cross}: Confirm  {:icon button-square}: Remove  {:icon button-circle}: Back
+    {:icon button-circle}: Confirm  {:icon button-square}: Remove  {:icon button-cross}: Back
 
 
     {:color #00F0F080}- Let´s place Gummies!{:reset}
@@ -1850,7 +1850,7 @@
 
     the {:color #8080F080}left stick{:reset} to rotate the Gummi in the
 
-    direction you desire. Press {:icon button-cross} to place
+    direction you desire. Press {:icon button-circle} to place
 
     the Gummi.
 
@@ -1876,14 +1876,14 @@
 
     {:color #00F0F080}- Shift and place Gummies!{:reset}
 
-    After confirming with {:icon button-cross}, the
+    After confirming with {:icon button-circle}, the
 
     {:color #8080F080}directional buttons{:reset} can be used to shift
 
     the position of Gummies.
 - id: 18540
   en: >-
-    {:icon button-cross}: Confirm   {:color #8080F080}L3 button{:reset}: Flip Gummi
+    {:icon button-circle}: Confirm   {:color #8080F080}L3 button{:reset}: Flip Gummi
 
     {:icon button-square}: Remove   After placing, use
 
@@ -1913,18 +1913,18 @@
       the Gummi Ship´s rolling maneuver.
 - id: 18544
   en: >-
-    {:width 90}{:icon button-cross}: Confirm & Execute {:icon button-triangle}: Select Area
+    {:width 90}{:icon button-circle}: Confirm & Execute {:icon button-triangle}: Select Area
 
     {:color #8080F080}Left stick{:reset}: Flip Gummies
 
     {:color #8080F080}Right stick{:reset}: Camera
 - id: 18576
   en: >-
-    {:icon button-triangle}: Select Area   {:icon button-cross}: Execute
+    {:icon button-triangle}: Select Area   {:icon button-circle}: Execute
 
     {:color #8080F080}Left stick{:reset}: Set direction
 
-    {:color #8080F080}Right stick{:reset}: Camera   {:icon button-circle}: Back
+    {:color #8080F080}Right stick{:reset}: Camera   {:icon button-cross}: Back
 - id: 18578
   en: 4. Copy Mirrored
 - id: 18579
@@ -1946,9 +1946,9 @@
 
     {:icon button-triangle} twice: Confirm area
 
-    {:icon button-cross}: Copy mirrored
+    {:icon button-circle}: Copy mirrored
 
-    {:icon button-circle}: Back
+    {:icon button-cross}: Back
 
 
     {:color #00F0F080}- Let´s mirror copy!{:reset}
@@ -1959,12 +1959,12 @@
 
     stick{:reset} to {:color #F0F00080}select the direction to flip it{:reset}.
 
-    After that is selected, press {:icon button-cross} to
+    After that is selected, press {:icon button-circle} to
 
     mirror copy.
 - id: 18582
   en: >-
-    {:icon button-cross}: Execute   {:icon button-triangle}: Select Area
+    {:icon button-circle}: Execute   {:icon button-triangle}: Select Area
 
     {:icon button-r1}: Undo   {:icon button-r2}: Redo
 
@@ -1986,7 +1986,7 @@
 
     {:icon button-triangle} twice: Confirm area
 
-    {:icon button-cross}: Confirm  {:icon button-circle}: Back
+    {:icon button-circle}: Confirm  {:icon button-cross}: Back
 
     {:icon button-r1}: Undo  {:icon button-r2}: Redo
 
@@ -1999,7 +1999,7 @@
 
     {:color #8080F080}left stick{:reset} to {:color #F0F00080}select the direction of the
 
-    point{:reset}. Once this is selected, press {:icon button-cross} to
+    point{:reset}. Once this is selected, press {:icon button-circle} to
 
     reshape.
 - id: 18593
@@ -2038,7 +2038,7 @@
 - id: 18687
   en: OFF
 - id: 18691
-  en: '{:icon button-dpad}: Flip pages {:icon button-circle}: Back'
+  en: '{:icon button-dpad}: Flip pages {:icon button-cross}: Back'
 - id: 18694
   en: No.
 - id: 18695
@@ -2056,18 +2056,18 @@
 
     {:icon button-triangle} twice: Confirm area
 
-    {:icon button-cross}: Confirm  {:icon button-circle}: Back
+    {:icon button-circle}: Confirm  {:icon button-cross}: Back
 
 
     {:color #00F0F080}- Let´s add color!{:reset}
 
     Select the color you wish to use from the
 
-    color palette and press {:icon button-cross}. Next, put
+    color palette and press {:icon button-circle}. Next, put
 
     the cursor on the Gummi you wish to
 
-    color and press {:icon button-cross}. You can also choose
+    color and press {:icon button-circle}. You can also choose
 
     colors when placing Gummies and can
 
@@ -2130,16 +2130,16 @@
   en: 4. Select an Area
 - id: 18704
   en: >-
-    {:icon button-cross}: Execute  {:icon button-triangle}: Select Area
+    {:icon button-circle}: Execute  {:icon button-triangle}: Select Area
 
-    {:color #8080F080}Right stick{:reset}: Camera  {:icon button-circle}: Back
+    {:color #8080F080}Right stick{:reset}: Camera  {:icon button-cross}: Back
 - id: 18718
   en: >-
-    {:icon button-cross}: Grab/Place   {:icon button-square}: Remove
+    {:icon button-circle}: Grab/Place   {:icon button-square}: Remove
 
     {:icon button-triangle}: Select Area
 
-    {:color #8080F080}Right stick{:reset}: Camera   {:icon button-circle}: Back
+    {:color #8080F080}Right stick{:reset}: Camera   {:icon button-cross}: Back
 - id: 18719
   en: 1. Moving Gummies
 - id: 18720
@@ -2157,16 +2157,16 @@
 
     {:icon button-triangle}: Expand area  {:icon button-triangle} twice: {:width 95}Confirm area{:width 100}
 
-    {:icon button-cross}: Grasp/Place Gummi
+    {:icon button-circle}: Grasp/Place Gummi
 
-    {:icon button-square}: Remove  {:icon button-circle}: Back
+    {:icon button-square}: Remove  {:icon button-cross}: Back
 
 
     {:color #00F0F080}- Move Gummi blocks!{:reset}
 
     Put the cursor on the Gummi you wish to
 
-    move and press {:icon button-cross}. Then drag the
+    move and press {:icon button-circle}. Then drag the
 
     cursor to the position you would like to
 
@@ -2174,19 +2174,19 @@
 
     with the {:color #8080F080}left stick{:reset}. Select the direction
 
-    you want it to face, and press {:icon button-cross} to
+    you want it to face, and press {:icon button-circle} to
 
     confirm.
 - id: 18752
   en: >-
-    {:icon button-cross}: Confirm  {:icon button-square}: Open Palette
+    {:icon button-circle}: Confirm  {:icon button-square}: Open Palette
 
-    {:color #8080F080}Right stick{:reset}: Camera  {:icon button-circle}: Back
+    {:color #8080F080}Right stick{:reset}: Camera  {:icon button-cross}: Back
 - id: 18759
   en: >-
-    {:icon button-cross}: Confirm  {:icon button-l1}{:icon button-r1}: Change Color
+    {:icon button-circle}: Confirm  {:icon button-l1}{:icon button-r1}: Change Color
 
-    {:color #8080F080}Right stick{:reset}: Camera  {:icon button-circle}: Back
+    {:color #8080F080}Right stick{:reset}: Camera  {:icon button-cross}: Back
 - id: 18760
   en: 'Other Commands {:color #8080F080}▸{:reset}'
 - id: 18761
@@ -2540,14 +2540,14 @@
 
     {:icon button-triangle}: Set Area
 
-    {:color #8080F080}Right stick{:reset}: Camera   {:icon button-circle}: Back
+    {:color #8080F080}Right stick{:reset}: Camera   {:icon button-cross}: Back
 - id: 19408
   en: >-
-    {:icon button-cross}: Execute   {:icon button-triangle}: Reselect area
+    {:icon button-circle}: Execute   {:icon button-triangle}: Reselect area
 
     {:color #8080F080}Left stick{:reset}: Set direction
 
-    {:icon button-circle}: Back
+    {:icon button-cross}: Back
 - id: 19431
   en: >-
     {:icon button-square}: Leave Teeny Ships
@@ -2648,11 +2648,11 @@
     Gummi blocks to use them.
 - id: 19597
   en: >-
-    {:icon button-cross}: Confirm
+    {:icon button-circle}: Confirm
 
     {:color #8080F080}Left stick{:reset}: Rotate Gummi
 
-    {:color #8080F080}Right stick{:reset}: Camera   {:icon button-circle}: Back
+    {:color #8080F080}Right stick{:reset}: Camera   {:icon button-cross}: Back
 - id: 20365
   en: 'Fly a Gummi Ship with {:color #F0F00080}50 or more{:reset} {:color #8080F080}speed{:reset}!'
 - id: 20366

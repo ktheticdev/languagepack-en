@@ -1,4 +1,4 @@
-﻿- id: 2865
+- id: 2865
   en: Open Menu
 - id: 2866
   en: The Spooky Steps
@@ -3769,7 +3769,7 @@
 
     Tilt it slightly to make Roxas walk.
 
-    Jump with {:icon button-circle}.
+    Jump with {:icon button-cross}.
 
     {:color #00F0F080}Approach the Armor Shop.{:reset}{:clear }
 - id: 17159
@@ -3798,7 +3798,7 @@
 
     a target, a yellow mark will appear.
 
-    Press {:icon button-cross} to attack. {:color #00F0F080}Approach and attack Seifer.{:reset}
+    Press {:icon button-circle} to attack. {:color #00F0F080}Approach and attack Seifer.{:reset}
 - id: 17162
   en: >-
     Approach the light for the "Save" {:color #00F00080}reaction

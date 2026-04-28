@@ -1,4 +1,4 @@
-﻿- id: 16213
+- id: 16213
   en: ''
 - id: 16214
   en: Axel said Kairi´s in the dungeon.
@@ -1456,11 +1456,11 @@
 - id: 19601
   en: Energy charged! Use Megalaser for a powerful attack!
 - id: 19602
-  en: Absorb enemy shots with {:icon button-circle} to gather energy!
+  en: Absorb enemy shots with {:icon button-cross} to gather energy!
 - id: 19603
   en: The energy core has been stopped!
 - id: 19604
-  en: Use {:icon button-circle} to jump continuously and {:icon button-square} in midair to glide!
+  en: Use {:icon button-cross} to jump continuously and {:icon button-square} in midair to glide!
 - id: 19605
   en: Xemnas is on top of the building!
 - id: 19606
@@ -1510,7 +1510,7 @@
   en: >-
     Defeat Xemnas!
 
-    Use {:icon button-circle} to jump continuously and {:icon button-square} in midair to glide!
+    Use {:icon button-cross} to jump continuously and {:icon button-square} in midair to glide!
 
     Using reaction commands will make the battle easier!
 - id: 19618

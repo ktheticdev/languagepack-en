@@ -1,4 +1,4 @@
-﻿- id: 9907
+- id: 9907
   en: Twilight Town
 - id: 9908
   en: Hollow Bastion
@@ -16425,8 +16425,8 @@
     complete the puzzle!
 
       {:icon button-dpad}: Move cursor
-      {:icon button-cross}: Grab/Place
-      {:icon button-circle}: Cancel
+      {:icon button-circle}: Grab/Place
+      {:icon button-cross}: Cancel
 
     Some puzzles require you to
 
@@ -16532,9 +16532,9 @@
 
     {:icon button-dpad}: Move cursor
 
-    {:icon button-cross}: Grab/Place
+    {:icon button-circle}: Grab/Place
 
-    {:icon button-circle}: Cancel
+    {:icon button-cross}: Cancel
 
 
     Right stick:
@@ -16559,9 +16559,9 @@
 
     {:icon button-dpad}: Move cursor
 
-    {:icon button-cross}: Grab/Place
+    {:icon button-circle}: Grab/Place
 
-    {:icon button-circle}: Cancel
+    {:icon button-cross}: Cancel
 
 
     Touch pad button:

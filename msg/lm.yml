@@ -1,4 +1,4 @@
-﻿- id: 4995
+- id: 4995
   en: >-
     Ah, the night sky is so beautiful
 
@@ -1494,7 +1494,7 @@
 
     Lock on to a target with {:icon button-r1}, and
 
-    approach with {:icon button-circle} using Dolphin Kick.
+    approach with {:icon button-cross} using Dolphin Kick.
 
     {:color #00F0F080}Try talking to Flounder.{:reset}
 - id: 17821
@@ -1503,7 +1503,7 @@
 
     Lock on to a target with {:icon button-r1}, and approach
 
-    with {:icon button-circle} using a Dolphin Kick.
+    with {:icon button-cross} using a Dolphin Kick.
 
     {:color #00F0F080}Try talking to Flounder.{:reset}
 - id: 17822

@@ -1,4 +1,4 @@
-﻿- id: 479
+- id: 479
   en: '-'
 - id: 480
   en: Attack
@@ -697,13 +697,13 @@
 
     switched out for some time.
 - id: 1149
-  en: '{:icon button-circle}'
+  en: '{:icon button-cross}'
 - id: 1150
   en: '{:icon button-triangle}'
 - id: 1151
   en: '{:icon button-square}'
 - id: 1152
-  en: '{:icon button-cross}'
+  en: '{:icon button-circle}'
 - id: 1153
   en: MP Charge
 - id: 1154
@@ -1615,7 +1615,7 @@
   en: >-
     Jump a little higher than usual.
 
-    The longer {:icon button-circle} is pressed down,
+    The longer {:icon button-cross} is pressed down,
 
     the higher the jump.
 - id: 1614
@@ -1624,7 +1624,7 @@
   en: >-
     Jump even higher than before!
 
-    The longer {:icon button-circle} is pressed down,
+    The longer {:icon button-cross} is pressed down,
 
     the higher the jump.
 - id: 1616
@@ -1633,7 +1633,7 @@
   en: >-
     Now you can jump really high!
 
-    The longer {:icon button-circle} is pressed down,
+    The longer {:icon button-cross} is pressed down,
 
     the higher the jump.
 - id: 1618
@@ -1644,7 +1644,7 @@
 
     than you thought possible! The longer
 
-    {:icon button-circle} is pressed down, the higher the jump.
+    {:icon button-cross} is pressed down, the higher the jump.
 - id: 1620
   en: Quick Run LV1
 - id: 1621
@@ -1685,28 +1685,28 @@
   en: Aerial Dodge LV1
 - id: 1629
   en: >-
-    Press {:icon button-circle} in midair to jump again.
+    Press {:icon button-cross} in midair to jump again.
 
     It is useful for dodging enemy attacks.
 - id: 1630
   en: Aerial Dodge LV2
 - id: 1631
   en: >-
-    Press {:icon button-circle} in midair to jump again.
+    Press {:icon button-cross} in midair to jump again.
 
     It is useful for dodging enemy attacks.
 - id: 1632
   en: Aerial Dodge LV3
 - id: 1633
   en: >-
-    Press {:icon button-circle} in midair to jump again.
+    Press {:icon button-cross} in midair to jump again.
 
     It is useful for dodging enemy attacks.
 - id: 1634
   en: Aerial Dodge MAX
 - id: 1635
   en: >-
-    Press {:icon button-circle} in midair to jump again.
+    Press {:icon button-cross} in midair to jump again.
 
     It is useful for dodging enemy attacks.
 - id: 1636
@@ -2698,7 +2698,7 @@
   en: Aerial Recovery
 - id: 10329
   en: >-
-    Quickly regains balance with {:icon button-circle} when
+    Quickly regains balance with {:icon button-cross} when
 
     knocked down.
 - id: 10330
@@ -8413,7 +8413,7 @@
 
     Abilities become stronger by leveling up.
 - id: 20159
-  en: '{:icon button-cross}: Save   {:icon button-circle}: End Game'
+  en: '{:icon button-circle}: Save   {:icon button-cross}: End Game'
 - id: 20168
   en: Reversal
 - id: 20169

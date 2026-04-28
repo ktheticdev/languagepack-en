@@ -1490,7 +1490,7 @@
 
     the control settings, hold {:unk16 0C} and
 
-    use the right stick to move vertically.){:clear }Press {:unk16 06} to swim quickly.
+    use the right stick to move vertically.){:clear }Press {:unk16 05} to swim quickly.
 
     Lock on to a target with {:icon button-r1}, and
 
@@ -1510,7 +1510,7 @@
   en: >-
     If locking on doesn´t seem to work,
 
-    get closer to the target with {:unk16 06}.
+    get closer to the target with {:unk16 05}.
 - id: 18123
   en: >-
     That Ariel...so infatuated with

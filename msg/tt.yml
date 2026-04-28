@@ -3600,7 +3600,7 @@
 
     Tilt it slightly to make Roxas walk.
 
-    Jump with {:unk16 05}.{:clear }{:color #00F0F080}Approach the Armor Shop.{:reset}{:clear }If you can't remember what to do next,
+    Jump with {:unk16 06}.{:clear }{:color #00F0F080}Approach the Armor Shop.{:reset}{:clear }If you can't remember what to do next,
 
     press the OPTIONS button to confirm your objective.
 - id: 15741
@@ -3690,14 +3690,14 @@
 
     will appear.
 
-    Press {:unk16 06} to attack.{:clear }{:color #00F0F080}Approach and attack Seifer.{:reset}
+    Press {:unk16 05} to attack.{:clear }{:color #00F0F080}Approach and attack Seifer.{:reset}
 - id: 16121
   en: >-
     After hitting an enemy with an attack, continue
 
     attacking to unleash powerful combos.
 
-    {:color #00F0F080}Press {:unk16 06} successively.{:reset}{:clear }Counter an enemy attack with your own to
+    {:color #00F0F080}Press {:unk16 05} successively.{:reset}{:clear }Counter an enemy attack with your own to
 
     {:color #00F0F080}parry and nullify the attack.{:reset}
 
@@ -3729,9 +3729,9 @@
   en: >-
     {:unk0f 03 0F 00 6D 01}{:color #00F0F080}The Items command has been added.{:reset}
 
-    Use {:unk16 0F} to select Items, and press {:unk16 06}.
+    Use {:unk16 0F} to select Items, and press {:unk16 05}.
 
-    Select the item to use and press {:unk16 06}.{:clear }{:unk0f 00 00 00 00 00}Press {:unk16 0B} and {:unk16 06} for a shortcut.
+    Select the item to use and press {:unk16 05}.{:clear }{:unk0f 00 00 00 00 00}Press {:unk16 0B} and {:unk16 05} for a shortcut.
 
     This setting can be changed in the main menu.
 - id: 16132
